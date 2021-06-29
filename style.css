@@ -1,0 +1,21 @@
+.bit{
+    margin: 20px;
+    background: yellow;
+    padding: 5px;
+    width: 210px;
+    height: 180px;
+}
+img{
+    width: 200px;
+    border: 5px ridge darkgreen;
+    max-height: 130px;
+}
+label{
+    color: forestgreen;
+}
+body{
+    background-image: linear-gradient(to right, greenyellow, darkgreen);
+}
+div{
+    float: left;
+}
